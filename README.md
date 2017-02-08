@@ -13,8 +13,8 @@ A list of cool stuffs and tools
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell)
 - [scala_school](https://github.com/twitter/scala_school)
 - [Awesome Case-study](https://github.com/luruke/awesome-casestudy)
-- [Swift Algorithm Club](Algorithms and data structures in Swift, with explanations!)
+- [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) Algorithms and data structures in Swift, with explanations!
 
 ## Tool
-- [netdata](Get control of your servers. Simple. Effective. Awesome.)
+- [netdata](https://github.com/firehol/netdata) Get control of your servers. Simple. Effective. Awesome.
 - [rasa](https://github.com/ChrisPenner/rasa)
