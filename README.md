@@ -8,6 +8,7 @@ A list of cool stuffs and tools
 - [Anime.js](https://github.com/juliangarnier/anime)
 - [Bulma](https://github.com/jgthms/bulma)
 - [hyper](https://github.com/zeit/hyper)
+- [Bootstrap-Clean-Dashboard-Theme](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme)
 
 ## For learn
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell)
