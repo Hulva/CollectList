@@ -9,6 +9,7 @@ A list of cool stuffs and tools
 - [Bulma](https://github.com/jgthms/bulma)
 - [hyper](https://github.com/zeit/hyper)
 - [Bootstrap-Clean-Dashboard-Theme](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme)
+- [Free themes for Bootstrap](http://bootswatch.com/)
 
 ## For learn
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell)
