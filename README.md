@@ -10,6 +10,7 @@ A list of cool stuffs and tools
 - [hyper](https://github.com/zeit/hyper)
 - [Bootstrap-Clean-Dashboard-Theme](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme)
 - [Free themes for Bootstrap](http://bootswatch.com/)
+- [termux-app](https://github.com/termux/termux-app) Android terminal emulator and Linux environment - app repository.
 
 ## For learn
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell)
