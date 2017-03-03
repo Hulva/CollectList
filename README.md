@@ -11,6 +11,7 @@ A list of cool stuffs and tools
 - [Bootstrap-Clean-Dashboard-Theme](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme)
 - [Free themes for Bootstrap](http://bootswatch.com/)
 - [termux-app](https://github.com/termux/termux-app) Android terminal emulator and Linux environment - app repository.
+- [tale](https://github.com/otale/tale) Best beautiful java blog, worth a try
 
 ## For learn
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell)
