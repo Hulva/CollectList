@@ -21,3 +21,6 @@ A list of cool stuffs and tools
 ## Tool
 - [netdata](https://github.com/firehol/netdata) Get control of your servers. Simple. Effective. Awesome.
 - [rasa](https://github.com/ChrisPenner/rasa)
+
+## Chrome plugin
+- [OctoTree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?utm_source=chrome-app-launcher-info-dialog)
