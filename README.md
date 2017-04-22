@@ -37,3 +37,4 @@ A list of cool stuffs and tools
 - [GridTab](https://github.com/gopalraju/gridtab) GridTab 一个轻量级的jQuery插件来创建基于网格的响应式标签。 它是响应式，轻量级，包括下一个，向前和关闭控件，自定义选择器，支持从右到左。 使用GridTab，您还可以为每个断点设置网格。
 - [Floater](https://github.com/sz-tamas/floater) 基于sticky-kit工具包，超级光滑和易于使用的JavaScript浮动滚动。 支持3d转换，可返回设置元素的顶部位置。
 - [JS Counter](https://codecanyon.net/item/js-counter-jquery-social-counter-plugin/19551773?ref=gavin_matters) JS Counter Plugin从您最喜欢的社交网络中获取最新的粉丝/关注者等级，然后将其显示在您的网站上
+- [scrollreveal](https://github.com/jlmakes/scrollreveal) Easy scroll animations for web and mobile browsers. https://scrollrevealjs.org/
