@@ -21,6 +21,10 @@ A list of cool stuffs and tools
 - [spring-mvc-angular-js-hibernate-bootstrap-java-single-page-jwt-auth-rest-api-webapp-framework](https://github.com/ykameshrao/spring-mvc-angular-js-hibernate-bootstrap-java-single-page-jwt-auth-rest-api-webapp-framework)
 - [angular2-webpack-starter-gentelella](https://github.com/kmkatsma/angular2-webpack-starter-gentelella)
 
+- [project-based-learning](https://github.com/tuvttran/project-based-learning)
+
+- [Python algorithms](https://github.com/keon/algorithms) Minimal examples of data structures and algorithms in Python
+
 ## Tool
 - [netdata](https://github.com/firehol/netdata) Get control of your servers. Simple. Effective. Awesome.
 - [rasa](https://github.com/ChrisPenner/rasa)
