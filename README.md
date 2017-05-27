@@ -42,3 +42,8 @@ A list of cool stuffs and tools
 - [Floater](https://github.com/sz-tamas/floater) 基于sticky-kit工具包，超级光滑和易于使用的JavaScript浮动滚动。 支持3d转换，可返回设置元素的顶部位置。
 - [JS Counter](https://codecanyon.net/item/js-counter-jquery-social-counter-plugin/19551773?ref=gavin_matters) JS Counter Plugin从您最喜欢的社交网络中获取最新的粉丝/关注者等级，然后将其显示在您的网站上
 - [scrollreveal](https://github.com/jlmakes/scrollreveal) Easy scroll animations for web and mobile browsers. https://scrollrevealjs.org/
+
+## Eclipse plugin
+
+- [stan4j](http://stan4j.com/general/download-ide.html) Java Code Structure and Dependencies Analysis Tools for Eclipse
+- [eDepend](http://www.soyatec.com/euml2/features/eDepend/) Java Code Structure and Dependencies Analysis Tools for Eclipse
