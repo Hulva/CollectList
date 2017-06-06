@@ -24,6 +24,7 @@ A list of cool stuffs and tools
 - [project-based-learning](https://github.com/tuvttran/project-based-learning)
 
 - [Python algorithms](https://github.com/keon/algorithms) Minimal examples of data structures and algorithms in Python
+- [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
 
 ## Tool
 - [netdata](https://github.com/firehol/netdata) Get control of your servers. Simple. Effective. Awesome.
