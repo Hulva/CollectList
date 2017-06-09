@@ -25,6 +25,7 @@ A list of cool stuffs and tools
 
 - [Python algorithms](https://github.com/keon/algorithms) Minimal examples of data structures and algorithms in Python
 - [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)
+- [CoolplaySpark](https://github.com/lw-lin/CoolplaySpark) 酷玩 Spark: Spark 源代码解析、Spark 类库等
 
 ## Tool
 - [netdata](https://github.com/firehol/netdata) Get control of your servers. Simple. Effective. Awesome.
