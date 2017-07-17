@@ -13,6 +13,8 @@ A list of cool stuffs and tools
 - [termux-app](https://github.com/termux/termux-app) Android terminal emulator and Linux environment - app repository.
 - [tale](https://github.com/otale/tale) Best beautiful java blog, worth a try
 
+- [Web text editor](https://github.com/jaredreich/pell) the simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies 
+
 ## For learn
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell)
 - [scala_school](https://github.com/twitter/scala_school)
