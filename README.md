@@ -52,7 +52,10 @@ A list of cool stuffs and tools
 - [stan4j](http://stan4j.com/general/download-ide.html) Java Code Structure and Dependencies Analysis Tools for Eclipse
 - [eDepend](http://www.soyatec.com/euml2/features/eDepend/) Java Code Structure and Dependencies Analysis Tools for Eclipse
 
+## About project
 
+- [project-guidelines](https://github.com/wearehive/project-guidelines) A set of best practices for JavaScript projects
+ 
 
 ## Good sites
 
