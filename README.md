@@ -66,4 +66,6 @@ A list of cool stuffs and tools
 
 - [ngrev](https://github.com/mgechev/ngrev) Tool for reverse engineering of Angular applications
 - [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd/related) chrome plugin. Extends the Developer Tools, adding tools for debugging and profiling Angular applications.
-- [compodoc](https://compodoc.github.io/website/)  The missing documentation tool for your Angular application
+- [compodoc](https://compodoc.github.io/website/)  The missing documentation tool for your Angular applicatio
+
+- [angular-eclipse](https://github.com/angelozerr/angular-eclipse) Angular Eclipse Plugin
