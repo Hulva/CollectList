@@ -69,3 +69,7 @@ A list of cool stuffs and tools
 - [compodoc](https://compodoc.github.io/website/)  The missing documentation tool for your Angular applicatio
 
 - [angular-eclipse](https://github.com/angelozerr/angular-eclipse) Angular Eclipse Plugin
+
+## Webpack
+
+[electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) Electron Desktop GUI for Webpack Dashboard 
