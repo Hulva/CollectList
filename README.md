@@ -15,6 +15,8 @@ A list of cool stuffs and tools
 - [Web text editor](https://github.com/jaredreich/pell) the simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies 
 - [gtop](https://github.com/aksakalli/gtop) System monitoring dashboard for terminal
 
+- [flatpickr](https://github.com/chmln/flatpickr) lightweight and powerful datetimepicker with no dependencies 
+
 ## For learn
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell)
 - [scala_school](https://github.com/twitter/scala_school)
