@@ -75,3 +75,7 @@ A list of cool stuffs and tools
 ## Webpack
 
 [electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) Electron Desktop GUI for Webpack Dashboard 
+
+## JavaScript
+
+- [Modern JavaScript cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
