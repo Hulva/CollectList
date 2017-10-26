@@ -15,7 +15,8 @@ A list of cool stuffs and tools
 - [Web text editor](https://github.com/jaredreich/pell) the simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies 
 - [gtop](https://github.com/aksakalli/gtop) System monitoring dashboard for terminal
 
-- [flatpickr](https://github.com/chmln/flatpickr) lightweight and powerful datetimepicker with no dependencies 
+- [flatpickr](https://github.com/chmln/flatpickr) lightweight and powerful datetimepicker with no dependencies
+- [Rythm.js](https://github.com/Okazari/Rythm.js) A javascript library that makes your page dance.
 
 ## For learn
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell)
