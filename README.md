@@ -73,6 +73,14 @@ A list of cool stuffs and tools
 
 - [angular-eclipse](https://github.com/angelozerr/angular-eclipse) Angular Eclipse Plugin
 
+- [awesome-angular-components](https://github.com/brillout/awesome-angular-components) Catalog of Angular 2+ Components & Libraries https://devarchy.com/angular
+- [awesome-angular](https://github.com/gdi2290/awesome-angular)  A curated list of awesome Angular resources by @TipeIO https://tipe.io
+
+### Angular web端开发模板
+
+- [ng2-admin](https://github.com/akveo/ngx-admin) Admin dashboard template based on Angular 5+, Bootstrap 4 (previously known as ng2-admin) http://akveo.com/ngx-admin/
+-[ng-alain](https://github.com/cipchk/ng-alain) ng-zorro-antd admin panel front-end framework https://ng-alain.com/
+
 ## Webpack
 
 [electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) Electron Desktop GUI for Webpack Dashboard 
