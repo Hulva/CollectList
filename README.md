@@ -88,3 +88,11 @@ A list of cool stuffs and tools
 ## JavaScript
 
 - [Modern JavaScript cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+
+## 优秀开源工具 - Mysql related
+
+- [Mycli](https://github.com/dbcli/mycli) A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting. http://mycli.net
+- [Gh-ost](https://github.com/github/gh-ost) GitHub's Online Schema Migrations for MySQL
+- [PhpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) A web interface for MySQL and MariaDB https://www.phpmyadmin.net/
+- [Sqlcheck](https://github.com/jarulraj/sqlcheck) Automatically identify anti-patterns in SQL queries
+- [Orchestrator](https://github.com/github/orchestrator) MySQL replication topology management and HA
