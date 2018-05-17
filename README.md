@@ -58,7 +58,7 @@ A list of cool stuffs and tools
 ## About project
 
 - [project-guidelines](https://github.com/wearehive/project-guidelines) A set of best practices for JavaScript projects
- 
+- [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog) A commitizen adapter for the angular preset of https://github.com/conventional-changelog/conventional-changelog
 
 ## Good sites
 
