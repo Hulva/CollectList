@@ -80,6 +80,7 @@ A list of cool stuffs and tools
 
 - [ng2-admin](https://github.com/akveo/ngx-admin) Admin dashboard template based on Angular 5+, Bootstrap 4 (previously known as ng2-admin) http://akveo.com/ngx-admin/
 - [ng-alain](https://github.com/cipchk/ng-alain) ng-zorro-antd admin panel front-end framework https://ng-alain.com/
+- [ngx-admin-lte](https://github.com/TwanoO67/ngx-admin-lte) ngx-admin-lte
 
 ## Webpack
 
