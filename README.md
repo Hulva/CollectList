@@ -18,6 +18,8 @@ A list of cool stuffs and tools
 - [flatpickr](https://github.com/chmln/flatpickr) lightweight and powerful datetimepicker with no dependencies
 - [Rythm.js](https://github.com/Okazari/Rythm.js) A javascript library that makes your page dance.
 
+- [WebSiteUseful](https://github.com/loremwalker/WebSiteUseful) 翻墙！科学上网，免费ss帐号分享、ssr订阅源，免费VPN下载
+
 ## For learn
 - [learnhaskell](https://github.com/bitemyapp/learnhaskell)
 - [scala_school](https://github.com/twitter/scala_school)
