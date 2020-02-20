@@ -78,6 +78,10 @@ A list of cool stuffs and tools
 - [awesome-angular-components](https://github.com/brillout/awesome-angular-components) Catalog of Angular 2+ Components & Libraries https://devarchy.com/angular
 - [awesome-angular](https://github.com/gdi2290/awesome-angular)  A curated list of awesome Angular resources by @TipeIO https://tipe.io
 
+## React related
+
+- [progress-bar-4-axios](https://github.com/rikmms/progress-bar-4-axios/) Slim progress bar (NProgress) for Web applications that use Axios library for HTTP requests
+
 ### Angular web端开发模板
 
 - [ng2-admin](https://github.com/akveo/ngx-admin) Admin dashboard template based on Angular 5+, Bootstrap 4 (previously known as ng2-admin) http://akveo.com/ngx-admin/
