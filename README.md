@@ -103,3 +103,7 @@ A list of cool stuffs and tools
 - [PhpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) A web interface for MySQL and MariaDB https://www.phpmyadmin.net/
 - [Sqlcheck](https://github.com/jarulraj/sqlcheck) Automatically identify anti-patterns in SQL queries
 - [Orchestrator](https://github.com/github/orchestrator) MySQL replication topology management and HA
+
+## Font
+
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) Nerd Fonts is a project that patches developer targeted fonts with a high number of glyphs (icons).
