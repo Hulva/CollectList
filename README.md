@@ -104,6 +104,7 @@ A list of cool stuffs and tools
 - [PhpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) A web interface for MySQL and MariaDB https://www.phpmyadmin.net/
 - [Sqlcheck](https://github.com/jarulraj/sqlcheck) Automatically identify anti-patterns in SQL queries
 - [Orchestrator](https://github.com/github/orchestrator) MySQL replication topology management and HA
+- [diff2html](https://diff2html.xyz/) Diff parser and pretty html generator
 
 ## Font
 
